@@ -1,0 +1,6 @@
+csyscall
+asmsyscall
+
+*.o
+.cache/
+.vscode/
